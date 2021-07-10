@@ -1,0 +1,32 @@
+{
+  "name": "vk-simple-tools",
+  "version": "1.0.0",
+  "description": "Tools for VK.COM",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filatovpr/vk-simple-tools.git"
+  },
+  "keywords": [
+    "vk",
+    "tools",
+    "vkontakte",
+    "VKCOM",
+    "autostatus",
+    "online",
+    "stickers",
+    "user",
+    "vk-simple-tools"
+  ],
+  "author": "filatovpr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filatovpr/vk-simple-tools/issues"
+  },
+  "homepage": "https://github.com/filatovpr/vk-simple-tools#readme",
+  "types": "index.d.ts",
+  "dependencies": {
+    "node-fetch": "^2.5.0",
+    "querystring": "^0.2.0"
+  }
+}
