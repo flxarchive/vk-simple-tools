@@ -15,7 +15,7 @@ let vk = new vkTools({
 vk.configure();
 ```
 
-> Получить токен можно [здесь](vkhost.github.io)
+> You can get a token [here](vkhost.github.io)
 
 ## Методы
 
@@ -68,6 +68,7 @@ vk.setAutoStatus({
 ### getStickers
 
 Get user stickers. Required argument text-user ID.
+The VK ME token is required for this method to work (an error occurs when using a third-party token and the script does not run)
 
 ```js
 vk.getStickers(1);
