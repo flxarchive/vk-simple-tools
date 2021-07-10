@@ -2,8 +2,13 @@
 
 vk-simple-tools - a [JavaScript](https://learn.javascript.ru/) tools package for [VK](https://vk.com/).
 
-| 📚 [Documentation](docs/) | 📝 [Examples](examples/) |
-| ------------------------ | ------------------------ |
+<div align='center'>
+  <a href='https://github.com/filatovpr/vk-simple-tools/tree/main/docs'><b>📚 Documentation</b></a>
+  <span>&nbsp;•&nbsp;</span>
+  <a href='https://github.com/filatovpr/vk-simple-tools/tree/main/examples'><b>📝 Examples</b></a>
+  <span>&nbsp;•&nbsp;</span>
+  <a href='https://t.me/vktools_channel'><b>🙋‍♂ Channel</b></a>
+</div>
 
 ## Install
 ### YARN
